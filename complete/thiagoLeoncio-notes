@@ -1,0 +1,28 @@
+=============================================
+DIRECTIONS - AngularJS-JAVA REST SIMPLE CALL
+Thiago L Guimaraes  - 02082018
+=============================================
+
+
+==========================================
+--- Angular with JAVA SPRING SAMPLE------
+==========================================
+
+Go to @project_folder/complete 
+Run ./gradlew bootRun
+
+Then open the http://localhost:8080/loadservice to see Json content
+Or open Angular code to call REST http://localhost:8080/index.html
+
+
+==========================================
+--- Angular Data Upload SAMPLE------------
+==========================================
+Go to @project_folder/complete 
+Run ./gradlew bootRun
+
+
+Open Angular code to call REST http://localhost:8080/Upload.html
+
+Have fun!!!
+Thiago L Guimaraes
